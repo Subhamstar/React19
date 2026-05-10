@@ -1,0 +1,28 @@
+{
+  "name": "react19",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000R\u0000e\u0000a\u0000c\u0000t\u00001\u00009\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/Subhamstar/React19#readme",
+  "bugs": {
+    "url": "https://github.com/Subhamstar/React19/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subhamstar/React19.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  }
+}
